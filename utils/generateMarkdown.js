@@ -31,14 +31,38 @@ ${renderLicenseBadge(data.license)}
 ## Description 
 ${data.description}
 ## Table of Contents
+${data.tableOfContents}
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
+* [Questions](#questions)
 ${renderLicenseLink(data.license)}
 * [Tests](#tests)
-* [Questions](#questions)
+* [Contributing](#contributing)
 
+
+## Instillation
+${data.instillation}
+
+## Usage
+${data.usage}
+
+${renderLicenseLink(data.license)}
+
+## Questions 
+${data.questions}
+${data.email}
+## Tests
+${data.tests}
+
+## Contributing 
+${data.contributing}
 `;
 }
-//Complete all h2 sections and do ${}.data.liscense that goes with them. Repeat 31 and 32. Questions section if yo uahve any about repo contact me @ mroe of my work @ with link. 
+
+
+
+//Complete all h2 sections and do ${}.data.liscense that goes with them. Repeat 31 and 32. Questions section if yo uahve any about repo contact me @ mroe of my work @ with link.
+
+
+
 module.exports = generateMarkdown;
