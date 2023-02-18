@@ -31,7 +31,11 @@ THEN I am taken to the corresponding section of the README
 
 Video showing the use of the README generator in the terminal on my machine.
 
-/Users/SamCott/Desktop/ReadMe-Generator Video.mp4
+/Users/SamCott/
+
+https://user-images.githubusercontent.com/109185946/219826969-1417a14e-62a4-4ad4-8b80-164c44dd877c.mp4
+
+Desktop/ReadMe-Generator Video.mp4
 ## Credits
 
 Sam Cott
